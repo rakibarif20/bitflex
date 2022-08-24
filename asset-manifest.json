@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rakibarif20/bitflex/static/css/main.d40ec4d7.css",
+    "main.js": "/rakibarif20/bitflex/static/js/main.be2f1e5d.js",
+    "index.html": "/rakibarif20/bitflex/index.html",
+    "main.d40ec4d7.css.map": "/rakibarif20/bitflex/static/css/main.d40ec4d7.css.map",
+    "main.be2f1e5d.js.map": "/rakibarif20/bitflex/static/js/main.be2f1e5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d40ec4d7.css",
+    "static/js/main.be2f1e5d.js"
+  ]
+}
