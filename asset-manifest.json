@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bitflex/static/css/main.d40ec4d7.css",
-    "main.js": "/bitflex/static/js/main.868f32bd.js",
-    "index.html": "/bitflex/index.html",
-    "main.d40ec4d7.css.map": "/bitflex/static/css/main.d40ec4d7.css.map",
-    "main.868f32bd.js.map": "/bitflex/static/js/main.868f32bd.js.map"
+    "main.css": "/static/css/main.d40ec4d7.css",
+    "main.js": "/static/js/main.868f32bd.js",
+    "index.html": "/index.html",
+    "main.d40ec4d7.css.map": "/static/css/main.d40ec4d7.css.map",
+    "main.868f32bd.js.map": "/static/js/main.868f32bd.js.map"
   },
   "entrypoints": [
     "static/css/main.d40ec4d7.css",
